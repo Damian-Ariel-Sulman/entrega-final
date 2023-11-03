@@ -1,0 +1,26 @@
+{
+    "html.format.contentUnformatted": "",
+    "json.schemas": [],
+    "liveSassCompile.settings.autoprefix": [],
+
+    "editor.codeActionsOnSave": {
+
+ 
+
+    },
+
+    "liveSassCompile.settings.formats": [
+
+        {
+
+            "format": "expanded",
+
+            "extensionName": ".css",
+
+            "savePath": "/css"
+
+        }
+
+    ],
+    "liveSassCompile.settings.useNewCompiler": false,
+}
